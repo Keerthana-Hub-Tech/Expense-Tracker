@@ -16,7 +16,7 @@ A simple Flask-based web application to manage and track your daily expenses. Us
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS  
 - **Backend:** Python (Flask)  
 - **Data Storage:** CSV file (`data.csv`)
 
