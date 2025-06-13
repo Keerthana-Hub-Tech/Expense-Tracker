@@ -28,6 +28,6 @@ A simple Flask-based web application to manage and track your daily expenses. Us
 
 ![image](https://github.com/user-attachments/assets/c3eb400d-352a-4023-8bc9-d225fbe3a9a1)
 
-## try the app here
+## Try the app here
 
 🔗 [Live Demo](https://807dbb4b-9fd7-4e79-9ebd-fd0f1adc29e5-00-31msf3dkbvv8y.sisko.replit.dev/)
