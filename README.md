@@ -24,3 +24,8 @@ A simple Flask-based web application to manage and track your daily expenses. Us
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/626b8bf2-d027-4bbb-b331-03d260b27c24)
+
+![image](https://github.com/user-attachments/assets/c3eb400d-352a-4023-8bc9-d225fbe3a9a1)
+
+
